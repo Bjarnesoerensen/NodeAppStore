@@ -1,18 +1,30 @@
-# The "Store" has arrived
+## Finshed the [@WesBos](https://wesbos.com/learn-node/) Course in NodeJs :rocket:
 
-## finshed the @Wes Bos Course in NodeJs.
+Build with ***node.js*** the application has three main models — Users, Stores and Reviews — all of which are relational. It is designed to hit upon many of today’s application needs such as ***user authentication, database storage, Ajax REST API, file upload and image resizing.***
 
-## Populated with 16 stores and with 3 authors and 41 reviews. The logins for the authors are as follows:
+<p align="center"> 
+<img src="github/github.png">
+</p>
 
-### Will try and fiddel with it some more, when I find the time..
-
-### Uploaded to Github:https://bjarnesoerensen.github.io/NodeAppStore/ 
-### and put online with @now: https://first-attempt-shop11-mxmrvvmaor.now.sh/
+## Try this :poop: out! 
+ 
+The online version is uploaded to [@now](https://first-attempt-shop11-mxmrvvmaor.now.sh/)
 
 |Name|Email (login)|Password|
 |---|---|---|
-|Bjarne|bjarne@gmail.com|bjarne|
 |Greek|mister@greek.com|greek|
-|Beau|beau@example.com|beau|
+
+## Project Info
+
+Webpack is used as the ***Task-Manager***. MongoDB as Database, Moment.js, Passport.js, Multer and Node.js
+
+## Local Version
+
+If you have cloned the repository please run:
+
+```
+npm install && npm start
+```
+
 
 
